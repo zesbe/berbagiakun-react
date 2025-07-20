@@ -1,0 +1,11 @@
+<!-- Simpan sebagai /public/favicon.svg -->
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="44" height="44" rx="14" fill="#0d47a1"/>
+  <g>
+    <circle cx="14" cy="22" r="6.5" fill="#fff" />
+    <circle cx="30" cy="10" r="6.5" fill="#fff" />
+    <circle cx="30" cy="34" r="6.5" fill="#fff" />
+    <path d="M17.5 19.5L26.5 13.5" stroke="#0d47a1" stroke-width="2"/>
+    <path d="M17.5 24.5L26.5 30.5" stroke="#0d47a1" stroke-width="2"/>
+  </g>
+</svg>

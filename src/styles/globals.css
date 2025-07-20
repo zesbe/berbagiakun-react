@@ -1,0 +1,43 @@
+.landing-bg {
+  background: linear-gradient(120deg, #e3e6f3 0%, #f7f8fa 100%) !important;
+  color: #181a23 !important;
+}
+
+.header-fixed {
+  background: #fff !important;
+  color: #111 !important;
+  border-bottom: 1px solid #e0e0e0;
+  box-shadow: 0 2px 8px #0001;
+  z-index: 9;
+}
+
+.footer-fixed {
+  background: #fff !important;
+  color: #333 !important;
+  border-top: 1px solid #e0e0e0;
+}
+
+.footer-link {
+  color: #0d47a1 !important;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.footer-link:hover,
+.footer-link:focus {
+  color: #1565c0 !important;
+  text-decoration: underline;
+}
+.card {
+  border-radius: 18px !important;
+}
+.btn {
+  border-radius: 10px !important;
+}
+body, html {
+  background: #fff !important;
+  color: #1d2235 !important;
+}
+.navbar, .footer-fixed {
+  transition: background 0.25s, color 0.25s;
+}
