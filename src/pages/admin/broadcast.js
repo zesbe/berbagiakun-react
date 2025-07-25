@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { supabase } from "../../lib/supabase";
 import { Container, Form, Button, Alert } from "react-bootstrap";
-import { useRouter } from "next/router";
 
 export default function BroadcastWA() {
   const [msg, setMsg] = useState("");
